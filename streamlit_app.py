@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈GitBot")
+st.title("GitBot")
 # st.markdown("JuggBot :juggernaut:")
 
 
