@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("🎈GitBot")
+st.markdown("JuggBit : juggernaut")
 st.write(
     "App to search the commit history"
 )
