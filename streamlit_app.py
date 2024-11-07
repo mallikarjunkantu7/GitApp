@@ -4,7 +4,7 @@ st.title("🎈GitBot")
 st.write(
     "App to search the commit history"
 )
-st.image('gitapp/jugg_image.jpg')
+st.image('GITAPP/jugg_image.jpg')
 
 st.sidebar.title("Home")
 
