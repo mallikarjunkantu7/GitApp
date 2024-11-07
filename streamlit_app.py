@@ -14,4 +14,4 @@ selected_option = st.sidebar.selectbox(
     ['Red', 'Green', 'Blue', 'Yellow']
 )
 
-st.selectbox("Pick one", ["cats", "dogs"])
+st.sidebar.selectbox("Pick one", ["cats", "dogs"])
