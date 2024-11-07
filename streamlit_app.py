@@ -8,6 +8,6 @@ st.write(
 # Create a selectbox (dropdown) with options
 selected_option = st.selectbox(
     'Choose a repository:',
-    # ['Red', 'Green', 'Blue', 'Yellow']
+    ['Red', 'Green', 'Blue', 'Yellow']
 )
 
