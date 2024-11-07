@@ -19,4 +19,3 @@ selected_option = st.sidebar.selectbox(
     ['Red', 'Green', 'Blue', 'Yellow']
 )
 
-st.sidebar.selectbox("Pick one", ["cats", "dogs"])
