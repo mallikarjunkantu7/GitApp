@@ -26,6 +26,7 @@ def run():
     st.set_page_config(
         page_title="Home",
         page_icon="👋",
+        initial_sidebar_state ="auto"
     )
 
     st.write("# Juggernaut Bot👋")
@@ -33,7 +34,7 @@ def run():
 
     st.write("OnePlace to search the GITHUB commit history")
 
-st.sidebar.title("Home")
+# st.sidebar.title("Home")
 
 if __name__ == "__main__":
     run()
