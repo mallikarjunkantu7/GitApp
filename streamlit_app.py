@@ -36,6 +36,6 @@ st.write("OnePlace to search the GITHUB commit history")
 
 # st.sidebar.title("Home")
 
-if __name__ == "__main__":
-    run()
+# if __name__ == "__main__":
+#     run()
 
