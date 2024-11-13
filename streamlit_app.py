@@ -31,10 +31,7 @@ def run():
     st.write("# Juggernaut Bot👋")
     # st.image('jugg_image.jpg')
 
-    st.write("""
-            Please go to the sidebar and:
-             - Load some data
-             - Use the time machine             
+    st.write(""" "OnePlace to search the GITHUB commit history"         
              """)
 
 
