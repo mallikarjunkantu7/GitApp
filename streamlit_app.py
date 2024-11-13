@@ -13,7 +13,7 @@ LOGGER = get_logger(__name__)
 
 # st.image('/workspaces/GitApp/jugg_image.png')
 
-# st.sidebar.title("Home")
+st.sidebar.title("Home")
 
 
 # # Create a selectbox (dropdown) with options
@@ -22,12 +22,12 @@ LOGGER = get_logger(__name__)
 #     ['Red', 'Green', 'Blue', 'Yellow']
 # )
 
-def run():
-    st.set_page_config(
-        page_title="Home",
-        page_icon="👋",
-        initial_sidebar_state ="expanded"
-    )
+# def run():
+#     st.set_page_config(
+#         page_title="Home",
+#         page_icon="👋",
+#         initial_sidebar_state ="expanded"
+#     )
 
     st.write("# Juggernaut Bot👋")
     # st.image('jugg_image.jpg')
