@@ -227,7 +227,7 @@ def get_history(repo, branch, limit):
 
 def load_git_history():
     repo = st.text_input("Repo", "https://github.com/mallikarjunkantu7/mongodb-scripts")
-    branch = st.text_input("Branch", "master")
+    branch = st.text_input("Branch", "main")
     limit = int(st.text_input("Limit number commits (0 for no limit)", "1000"))
     if st.button("Load data into the database"):
         df = get_history(repo, branch, limit)
