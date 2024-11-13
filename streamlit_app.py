@@ -29,10 +29,10 @@ st.sidebar.title("Home")
 #         initial_sidebar_state ="expanded"
 #     )
 
-    st.write("# Juggernaut Bot👋")
+st.write("# Juggernaut Bot👋")
     # st.image('jugg_image.jpg')
 
-    st.write("OnePlace to search the GITHUB commit history")
+st.write("OnePlace to search the GITHUB commit history")
 
 # st.sidebar.title("Home")
 
