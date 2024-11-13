@@ -31,8 +31,7 @@ def run():
     st.write("# Juggernaut Bot👋")
     # st.image('jugg_image.jpg')
 
-    st.write(""" "OnePlace to search the GITHUB commit history"         
-             """)
+    st.write("OnePlace to search the GITHUB commit history")
 
 
 if __name__ == "__main__":
